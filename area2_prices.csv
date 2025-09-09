@@ -1,0 +1,21 @@
+Item ID,Food Item,Category,Cafeteria Price (₹),Market Price (₹)
+1,Veg Sandwich,Snacks,38,28
+2,Grilled Cheese Sandwich,Snacks,55,42
+3,Plain Maggie,Snacks,35,25
+4,Aloo Paratha,Breakfast,32,22
+5,Egg Paratha,Breakfast,50,38
+6,Black Tea (250ml),Beverages,12,8
+7,Cappuccino (250ml),Beverages,30,22
+8,Lemon Iced Tea (300ml),Beverages,40,30
+9,Samosa (1 pc),Snacks,18,12
+10,Veg Burger,Snacks,60,42
+11,Chicken Burger,Snacks,85,65
+12,Schezwan Fried Rice,Main Course,90,70
+13,Mini Veg Thali,Main Course,95,75
+14,Paneer Tikka,Main Course,130,105
+15,Chole Kulche,Main Course,85,60
+16,Masala Fries,Snacks,65,45
+17,Momos (6 pcs),Snacks,60,40
+18,Pasta (Red Sauce),Snacks,95,72
+19,Fresh Lime Soda,Beverages,45,30
+20,Mineral Water (1L),Beverages,18,16
